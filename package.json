@@ -1,0 +1,21 @@
+{
+  "name": "robo-insta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "dotenv": "^10.0.0",
+    "form-data": "^4.0.0",
+    "node-html-parser": "^5.0.0",
+    "puppeteer": "^10.4.0",
+    "puppeteer-extra": "^3.2.3",
+    "puppeteer-extra-plugin-stealth": "^2.9.0",
+    "user-agents": "^1.0.816"
+  }
+}
